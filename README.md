@@ -2,7 +2,7 @@
 
 
 > [!NOTE]
-> Está é uma atividade da matéria de Frontend
+> Está é uma atividade da matéria [FRONT-2D1/2024] - DESENVOLVIMENTO FRONT-END
 
 Mockup de um Site de Delivery
 
