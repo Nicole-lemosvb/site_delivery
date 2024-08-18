@@ -1,5 +1,11 @@
-# site_delivery
-Atividade Frontend de um site de delivery
+# Site de Delivery
 
-#Figma
-https://www.figma.com/design/eVLYZ4Bz27Lljc0pM5l16T/Frontend-Site-Delivery?m=auto&t=8l5bs1pcbmP5JDUw-1
+
+> [!NOTE]
+> Está é uma atividade da matéria de Frontend
+
+Mockup de um Site de Delivery
+
+<h2 align="center">Conteúdo adicional</h2>
+
+- [Layout no Figma](https://www.figma.com/design/eVLYZ4Bz27Lljc0pM5l16T/Frontend-Site-Delivery?m=auto&t=8l5bs1pcbmP5JDUw-1)
